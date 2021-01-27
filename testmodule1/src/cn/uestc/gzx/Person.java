@@ -6,4 +6,5 @@ package cn.uestc.gzx;
  */
 public class Person {
     String name;
+    int age;
 }
